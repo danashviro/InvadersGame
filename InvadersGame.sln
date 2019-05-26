@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invaders", "Invaders\Invaders.csproj", "{77B4AB62-899D-4E7A-B5C4-703AF6C4BE5C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF7881F9-01E3-476F-A967-D1AEE3F90683}"
-	ProjectSection(SolutionItems) = preProject
-		info.txt = info.txt
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{FBB95375-2A61-4BCF-A453-2E02FEDD51EC}"
 EndProject
