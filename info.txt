@@ -1,9 +1,0 @@
-==========================Exercise Checking Report==========================
-Exercise No...........: 3
-First Student Details.: 204725048 - Dana Shviro
-Second Student Details: 203994264- Aviv Dayan
-Delivery Date.........: 10 - Fabruary - 2019
-Delivered In Delay....: No
-Delay Reason..........: 
-Comments..............:
-========================End Exercise Checking Report========================
